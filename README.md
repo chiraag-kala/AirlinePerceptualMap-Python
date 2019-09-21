@@ -11,6 +11,6 @@
 5. Calculating the percent of positive, negative, and neutral tweets for each topic identified to get product attribute scores for each airline
 6. Applying multidimensional scaling to generate the perceptual map from the product attribute scores
 
-**Domestic US Airline Market - Perceptual Map**: 
+**US Airline Market - Perceptual Map**: 
 
 ![](images/US%20Airline%20Perceptual%20Map.png)
