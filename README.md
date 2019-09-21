@@ -1,6 +1,6 @@
 # Using Airline Tweets to create a perceptual map of the US Airline Market. 
 
-**Project Description** - **This is a marketing analytics project that helps answer the following questions: how do US travelers perceive different domestic airlines? Do certain airlines have better brand perception than others?** In this project, a dataset with tweets about domestic US airlines from February 2015 is used to create a perceptual map of the US Airline Market, which can be used to understand how US domestic travelers perceive different airlines. 
+**Project Description** - **This is a marketing analytics project that helps answer the following questions: how do US travelers perceive different domestic airlines? Do certain airlines have better brand perception than others?** In this project, a dataset with tweets about domestic US airlines from February 2015 is used to create a perceptual map of the US Airline Market, which can be used to understand how US domestic travelers perceived different airlines in 2015. 
 
 **Steps Taken for this Analysis**: 
 
