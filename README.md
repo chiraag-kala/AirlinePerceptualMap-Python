@@ -13,4 +13,4 @@
 
 **Domestic US Airline Market - Perceptual Map**: 
 
-![ ](images/US Airline Perceptual Map.png)
+![]('images/US Airline Perceptual Map.png')
